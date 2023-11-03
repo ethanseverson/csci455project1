@@ -1,6 +1,8 @@
 # Fundraiser Project - User Manual
 Project 1 for CSCI 455 NDSU
 
+Uses TCP protocol for communication
+
 ## Prerequisites
 
  - [FundraiserServer.jar](https://github.com/ethanseverson/csci455project1/releases/download/v1.0.1/FundraiserServer.jar)
